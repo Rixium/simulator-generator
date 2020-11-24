@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simulator-generator/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/simulator-generator/static/js/main.0b61c735.chunk.js",
+    "main.js.map": "/simulator-generator/static/js/main.0b61c735.chunk.js.map",
+    "runtime-main.js": "/simulator-generator/static/js/runtime-main.bfaae887.js",
+    "runtime-main.js.map": "/simulator-generator/static/js/runtime-main.bfaae887.js.map",
+    "static/js/2.7f0409a4.chunk.js": "/simulator-generator/static/js/2.7f0409a4.chunk.js",
+    "static/js/2.7f0409a4.chunk.js.map": "/simulator-generator/static/js/2.7f0409a4.chunk.js.map",
+    "static/js/3.54e19860.chunk.js": "/simulator-generator/static/js/3.54e19860.chunk.js",
+    "static/js/3.54e19860.chunk.js.map": "/simulator-generator/static/js/3.54e19860.chunk.js.map",
+    "index.html": "/simulator-generator/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/simulator-generator/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7f0409a4.chunk.js.LICENSE.txt": "/simulator-generator/static/js/2.7f0409a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfaae887.js",
+    "static/js/2.7f0409a4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0b61c735.chunk.js"
+  ]
+}
